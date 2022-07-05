@@ -1,6 +1,6 @@
 section{
     display: flex;
-    background-image: ;
+    margin-bottom: 100px;
 }
 .Build-Climber{
     width: 50%;
@@ -30,4 +30,9 @@ a{
 .top-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
